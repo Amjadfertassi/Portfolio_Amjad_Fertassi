@@ -2,7 +2,7 @@ Hello! I'm Amjad Fertassi, a digital developer with a passion for creating apps 
 <br><br>
 <img width="959" alt="amjad" src="https://github.com/user-attachments/assets/2495db68-55c1-4f91-ac68-cd5822442bee">
 <br>
-Discover my  : 
+<h1>Discover me :</h1>
 <br>
 
 <img width="959" alt="me" src="https://github.com/user-attachments/assets/f22fc7cc-93ed-499d-a301-ce842bacec36">
